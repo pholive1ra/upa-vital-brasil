@@ -23,7 +23,7 @@ Sistema web para gestão de filas e triagem em Unidades de Pronto Atendimento (U
 Requisitos: Node.js instalado.
 
 ```bash
-git clone [https://github.com/seu-usuario/upa-vital-brasil.git](https://github.com/seu-usuario/upa-vital-brasil.git)
+git clone https://github.com/pholive1ra/upa-vital-brasil.git
 cd upa-vital-brasil
 npm install
 npm start
