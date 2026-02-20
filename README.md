@@ -28,6 +28,3 @@ cd upa-vital-brasil
 npm install
 npm start
 
-
-To learn React, check out the [React documentation](https://reactjs.org/).
->>>>>>> 6b171cb (Estrutura inicial: React, Tailwind e Cabeçalho)
